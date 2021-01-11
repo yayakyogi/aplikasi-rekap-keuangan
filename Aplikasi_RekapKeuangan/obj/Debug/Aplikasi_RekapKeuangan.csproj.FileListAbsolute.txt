@@ -1,0 +1,8 @@
+D:\C#\UTS\Aplikasi_RekapKeuangan\Aplikasi_RekapKeuangan\bin\Debug\Aplikasi_RekapKeuangan.exe.config
+D:\C#\UTS\Aplikasi_RekapKeuangan\Aplikasi_RekapKeuangan\bin\Debug\Aplikasi_RekapKeuangan.exe
+D:\C#\UTS\Aplikasi_RekapKeuangan\Aplikasi_RekapKeuangan\bin\Debug\Aplikasi_RekapKeuangan.pdb
+D:\C#\UTS\Aplikasi_RekapKeuangan\Aplikasi_RekapKeuangan\obj\Debug\Aplikasi_RekapKeuangan.csprojResolveAssemblyReference.cache
+D:\C#\UTS\Aplikasi_RekapKeuangan\Aplikasi_RekapKeuangan\obj\Debug\Aplikasi_RekapKeuangan.MainForm.resources
+D:\C#\UTS\Aplikasi_RekapKeuangan\Aplikasi_RekapKeuangan\obj\Debug\Aplikasi_RekapKeuangan.csproj.GenerateResource.Cache
+D:\C#\UTS\Aplikasi_RekapKeuangan\Aplikasi_RekapKeuangan\obj\Debug\Aplikasi_RekapKeuangan.exe
+D:\C#\UTS\Aplikasi_RekapKeuangan\Aplikasi_RekapKeuangan\obj\Debug\Aplikasi_RekapKeuangan.pdb
